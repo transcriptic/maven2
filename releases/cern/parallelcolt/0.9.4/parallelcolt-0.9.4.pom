@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <!-- The Basics -->
-  <groupId>colt</groupId>
+  <groupId>cern</groupId>
   <artifactId>parallelcolt</artifactId>
   <version>0.9.4</version>
   <packaging>jar</packaging>
