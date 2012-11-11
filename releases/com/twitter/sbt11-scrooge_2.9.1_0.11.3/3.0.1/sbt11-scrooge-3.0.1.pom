@@ -32,7 +32,7 @@
     <repository>
       <id>proxyrepo</id>
       <name>proxy-repo</name>
-      <url>https://raw.github.com/transcriptic/maven2/master/<url>
+      <url>https://raw.github.com/transcriptic/maven2/master/</url>
       <layout>default</layout>
     </repository>
   </repositories>
